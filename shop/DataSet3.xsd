@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet3" targetNamespace="http://tempuri.org/DataSet3.xsd" xmlns:mstns="http://tempuri.org/DataSet3.xsd" xmlns="http://tempuri.org/DataSet3.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet3" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet3" msprop:Generator_DataSetName="DataSet3">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="inventery" msprop:Generator_UserTableName="inventery" msprop:Generator_RowDeletedName="inventeryRowDeleted" msprop:Generator_TableClassName="inventeryDataTable" msprop:Generator_RowChangedName="inventeryRowChanged" msprop:Generator_RowClassName="inventeryRow" msprop:Generator_RowChangingName="inventeryRowChanging" msprop:Generator_RowEvArgName="inventeryRowChangeEvent" msprop:Generator_RowEvHandlerName="inventeryRowChangeEventHandler" msprop:Generator_TablePropName="inventery" msprop:Generator_TableVarName="tableinventery" msprop:Generator_RowDeletingName="inventeryRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="inid" msprop:Generator_UserColumnName="inid" msprop:Generator_ColumnPropNameInRow="inid" msprop:Generator_ColumnVarNameInTable="columninid" msprop:Generator_ColumnPropNameInTable="inidColumn" type="xs:int" />
+              <xs:element name="initemname" msprop:Generator_UserColumnName="initemname" msprop:Generator_ColumnPropNameInRow="initemname" msprop:Generator_ColumnVarNameInTable="columninitemname" msprop:Generator_ColumnPropNameInTable="initemnameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="intype" msprop:Generator_UserColumnName="intype" msprop:Generator_ColumnPropNameInRow="intype" msprop:Generator_ColumnVarNameInTable="columnintype" msprop:Generator_ColumnPropNameInTable="intypeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="inqty" msprop:Generator_UserColumnName="inqty" msprop:Generator_ColumnPropNameInRow="inqty" msprop:Generator_ColumnVarNameInTable="columninqty" msprop:Generator_ColumnPropNameInTable="inqtyColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="inunitprice" msprop:Generator_UserColumnName="inunitprice" msprop:Generator_ColumnPropNameInRow="inunitprice" msprop:Generator_ColumnVarNameInTable="columninunitprice" msprop:Generator_ColumnPropNameInTable="inunitpriceColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="intotalcost" msprop:Generator_UserColumnName="intotalcost" msprop:Generator_ColumnPropNameInRow="intotalcost" msprop:Generator_ColumnVarNameInTable="columnintotalcost" msprop:Generator_ColumnPropNameInTable="intotalcostColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="indescription" msprop:Generator_UserColumnName="indescription" msprop:Generator_ColumnPropNameInRow="indescription" msprop:Generator_ColumnVarNameInTable="columnindescription" msprop:Generator_ColumnPropNameInTable="indescriptionColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="inmade" msprop:Generator_UserColumnName="inmade" msprop:Generator_ColumnPropNameInRow="inmade" msprop:Generator_ColumnVarNameInTable="columninmade" msprop:Generator_ColumnPropNameInTable="inmadeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="inonhand" msprop:Generator_UserColumnName="inonhand" msprop:Generator_ColumnPropNameInRow="inonhand" msprop:Generator_ColumnVarNameInTable="columninonhand" msprop:Generator_ColumnPropNameInTable="inonhandColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="inwarrenty" msprop:Generator_UserColumnName="inwarrenty" msprop:Generator_ColumnPropNameInRow="inwarrenty" msprop:Generator_ColumnVarNameInTable="columninwarrenty" msprop:Generator_ColumnPropNameInTable="inwarrentyColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:inventery" />
+      <xs:field xpath="mstns:inid" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

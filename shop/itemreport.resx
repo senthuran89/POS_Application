@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="SqlSelectCommand1.DesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="SqlSelectCommand1.CommandDesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="SqlSelectCommand1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 0</value>
+  </metadata>
+  <metadata name="SqlConnection1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>152, 17</value>
+  </metadata>
+  <metadata name="SqlInsertCommand1.DesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="SqlInsertCommand1.CommandDesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="SqlInsertCommand1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 0</value>
+  </metadata>
+  <data name="SqlInsertCommand1.CommandText" xml:space="preserve">
+    <value>INSERT INTO [inventery] ([inid], [initemname], [intype], [inqty], [inunitprice], [intotalcost], [indescription], [inmade], [inonhand], [inwarrenty]) VALUES (@inid, @initemname, @intype, @inqty, @inunitprice, @intotalcost, @indescription, @inmade, @inonhand, @inwarrenty);
+SELECT inid, initemname, intype, inqty, inunitprice, intotalcost, indescription, inmade, inonhand, inwarrenty FROM inventery WHERE (inid = @inid)</value>
+  </data>
+  <metadata name="SqlUpdateCommand1.DesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="SqlUpdateCommand1.CommandDesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="SqlUpdateCommand1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 0</value>
+  </metadata>
+  <data name="SqlUpdateCommand1.CommandText" xml:space="preserve">
+    <value>UPDATE [inventery] SET [inid] = @inid, [initemname] = @initemname, [intype] = @intype, [inqty] = @inqty, [inunitprice] = @inunitprice, [intotalcost] = @intotalcost, [indescription] = @indescription, [inmade] = @inmade, [inonhand] = @inonhand, [inwarrenty] = @inwarrenty WHERE (([inid] = @Original_inid) AND ((@IsNull_initemname = 1 AND [initemname] IS NULL) OR ([initemname] = @Original_initemname)) AND ((@IsNull_intype = 1 AND [intype] IS NULL) OR ([intype] = @Original_intype)) AND ((@IsNull_inqty = 1 AND [inqty] IS NULL) OR ([inqty] = @Original_inqty)) AND ((@IsNull_inunitprice = 1 AND [inunitprice] IS NULL) OR ([inunitprice] = @Original_inunitprice)) AND ((@IsNull_intotalcost = 1 AND [intotalcost] IS NULL) OR ([intotalcost] = @Original_intotalcost)) AND ((@IsNull_indescription = 1 AND [indescription] IS NULL) OR ([indescription] = @Original_indescription)) AND ((@IsNull_inmade = 1 AND [inmade] IS NULL) OR ([inmade] = @Original_inmade)) AND ((@IsNull_inonhand = 1 AND [inonhand] IS NULL) OR ([inonhand] = @Original_inonhand)) AND ((@IsNull_inwarrenty = 1 AND [inwarrenty] IS NULL) OR ([inwarrenty] = @Original_inwarrenty)));
+SELECT inid, initemname, intype, inqty, inunitprice, intotalcost, indescription, inmade, inonhand, inwarrenty FROM inventery WHERE (inid = @inid)</value>
+  </data>
+  <metadata name="SqlDeleteCommand1.DesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="SqlDeleteCommand1.CommandDesignTimeVisible" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="SqlDeleteCommand1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 0</value>
+  </metadata>
+  <data name="SqlDeleteCommand1.CommandText" xml:space="preserve">
+    <value>DELETE FROM [inventery] WHERE (([inid] = @Original_inid) AND ((@IsNull_initemname = 1 AND [initemname] IS NULL) OR ([initemname] = @Original_initemname)) AND ((@IsNull_intype = 1 AND [intype] IS NULL) OR ([intype] = @Original_intype)) AND ((@IsNull_inqty = 1 AND [inqty] IS NULL) OR ([inqty] = @Original_inqty)) AND ((@IsNull_inunitprice = 1 AND [inunitprice] IS NULL) OR ([inunitprice] = @Original_inunitprice)) AND ((@IsNull_intotalcost = 1 AND [intotalcost] IS NULL) OR ([intotalcost] = @Original_intotalcost)) AND ((@IsNull_indescription = 1 AND [indescription] IS NULL) OR ([indescription] = @Original_indescription)) AND ((@IsNull_inmade = 1 AND [inmade] IS NULL) OR ([inmade] = @Original_inmade)) AND ((@IsNull_inonhand = 1 AND [inonhand] IS NULL) OR ([inonhand] = @Original_inonhand)) AND ((@IsNull_inwarrenty = 1 AND [inwarrenty] IS NULL) OR ([inwarrenty] = @Original_inwarrenty)))</value>
+  </data>
+  <metadata name="SqlDataAdapter1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="DataSet31.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>280, 17</value>
+  </metadata>
+  <metadata name="itemReport11.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>383, 17</value>
+  </metadata>
+  <metadata name="itemReport11.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>383, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAIAICAQAAAAAADoAgAAJgAAABAQEAAAAAAAKAEAAA4DAAAoAAAAIAAAAEAAAAABAAQAAAAAAIAC
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAICAAIAAAACAAIAAgIAAAICAgADAwMAAAAD/AAD/
+        AAAA//8A/wAAAP8A/wD//wAA////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZAAAAAAAAAAAAAAAAAJmZmQAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAD/8AAAAAAAAAAAAAAAAAAP//AAAAAAAAAAAAAAAAAA///wAAAAAAAAAAAAAAAAAP//
+        8AAAAAAAAAgIAAAAAAD///AAAAAAAIiAAHd3d3cP///wAAAAAIiADw8AAAAA/wD/8AAAiIgAD/8P////
+        8PDwD/AAAIAA////D/////AP8A8AAACA////9w//f39/f/APAAAAgP//9/8P//////+QAAAAAJD/9///
+        D/9/f39/8AAAAACAl///9w////////AAAAAAgP//9/8P/39/f3/wAAAAAID/9///D///////8AAAAACA
+        9///9w//f39/f/AAAAAAgP//9/8P///////wAAAAAID/9///D/9/f39/8AAAAADw9///9w////////AA
+        AAAA8P//9/8A///////wAAAAAPD/9///AAAAAAAAAAAAAADw9///8AAAAAAAAAAAAAAA8P//8AAAAAAA
+        AAAAAAAAAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////
+        //////8A////AP///wD///8A////g////wP///4D/+P+A/8AAAP4AAADAAAAAwAAAAMAAAAHAAAABwAA
+        AA8AAAAPAAAAHwAAAB8AAAAfAAAAHwAAAB8AAAAfAAAAHwAAAD8ABAA/AA///wAf//+Af///4///////
+        //8oAAAAEAAAACAAAAABAAQAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAICAAIAA
+        AACAAIAAgIAAAICAgADAwMAAAAD/AAD/AAAA//8A/wAAAP8A/wD//wAA////AAAAAAAAAAmQAAAAAAAA
+        CZAAAAAAAAAAAAAAAAAAAA8AAAAAAAAA/wAAAAcAAAD/AACHdwd3Dw8ACA//D/+ADwAID/8P//8AAAgP
+        /w9/fwAACA//D///AAAPD/8Pf38AAA8P/w///wAADw/wAAAAAAAAAAAAAAAAAAAAAAAAAAAA//AAAP/w
+        AAD/8AAA//EAAPnhAADAAQAAAAEAAAABAAAAAwAAAAMAAAADAAAAAwAAAAMAAAAHAAAD/wAA3/8AAA==
+</value>
+  </data>
+</root>

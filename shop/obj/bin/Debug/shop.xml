@@ -1,0 +1,336 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+shop
+</name>
+</assembly>
+<members>
+<member name="T:shop.saleDataSet4.inventeryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:shop.saleDataSet4.inventeryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:shop.saleDataSet4.inventeryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:shop.saleDataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:shop.saleDataSet4TableAdapters.inventeryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:shop.saleDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(shop.saleDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:shop.saleDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(shop.saleDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:shop.saleDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(shop.saleDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:shop.saleDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:shop.saleDataSet4TableAdapters.TableAdapterManager.UpdateAll(shop.saleDataSet4)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:shop.saleDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:shop.saleDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:shop.saleDataSet4TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:shop.saleDataSet5.inventeryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:shop.saleDataSet5.inventeryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:shop.saleDataSet5.inventeryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:shop.saleDataSet5">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:shop.saleDataSet5TableAdapters.inventeryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:shop.saleDataSet5TableAdapters.TableAdapterManager.UpdateUpdatedRows(shop.saleDataSet5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:shop.saleDataSet5TableAdapters.TableAdapterManager.UpdateInsertedRows(shop.saleDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:shop.saleDataSet5TableAdapters.TableAdapterManager.UpdateDeletedRows(shop.saleDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:shop.saleDataSet5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:shop.saleDataSet5TableAdapters.TableAdapterManager.UpdateAll(shop.saleDataSet5)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:shop.saleDataSet5TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:shop.saleDataSet5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:shop.saleDataSet5TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:shop.saleDataSet2.order1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:shop.saleDataSet2.order1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:shop.saleDataSet2.order1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:shop.saleDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:shop.saleDataSet2TableAdapters.order1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:shop.saleDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(shop.saleDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:shop.saleDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(shop.saleDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:shop.saleDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(shop.saleDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:shop.saleDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:shop.saleDataSet2TableAdapters.TableAdapterManager.UpdateAll(shop.saleDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:shop.saleDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:shop.saleDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:shop.saleDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:shop.saleDataSet.order1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:shop.saleDataSet.order1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:shop.saleDataSet.order1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:shop.saleDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:shop.saleDataSetTableAdapters.order1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:shop.saleDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(shop.saleDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:shop.saleDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(shop.saleDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:shop.saleDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(shop.saleDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:shop.saleDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:shop.saleDataSetTableAdapters.TableAdapterManager.UpdateAll(shop.saleDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:shop.saleDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:shop.saleDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:shop.saleDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:shop.saleDataSet1.order1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:shop.saleDataSet1.order1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:shop.saleDataSet1.order1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:shop.saleDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:shop.saleDataSet1TableAdapters.order1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:shop.saleDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(shop.saleDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:shop.saleDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(shop.saleDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:shop.saleDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(shop.saleDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:shop.saleDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:shop.saleDataSet1TableAdapters.TableAdapterManager.UpdateAll(shop.saleDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:shop.saleDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:shop.saleDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:shop.saleDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:shop.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:shop.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:shop.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:shop.saleDataSet3.inventeryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:shop.saleDataSet3.inventeryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:shop.saleDataSet3.inventeryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:shop.saleDataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:shop.saleDataSet3TableAdapters.inventeryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:shop.saleDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(shop.saleDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:shop.saleDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(shop.saleDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:shop.saleDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(shop.saleDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:shop.saleDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:shop.saleDataSet3TableAdapters.TableAdapterManager.UpdateAll(shop.saleDataSet3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:shop.saleDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:shop.saleDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:shop.saleDataSet3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

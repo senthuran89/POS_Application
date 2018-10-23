@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="saleDataSet4" targetNamespace="http://tempuri.org/saleDataSet41.xsd" xmlns:mstns="http://tempuri.org/saleDataSet41.xsd" xmlns="http://tempuri.org/saleDataSet41.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="saleConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="saleConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.shop.My.MySettings.GlobalReference.Default.saleConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="inventeryTableAdapter" GeneratorDataComponentClassName="inventeryTableAdapter" Name="inventery" UserDataComponentName="inventeryTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="saleConnectionString (MySettings)" DbObjectName="sale.dbo.inventery" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT initemname, inqty, inunitprice, intotalcost FROM dbo.inventery</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="initemname" DataSetColumn="initemname" />
+              <Mapping SourceColumn="inqty" DataSetColumn="inqty" />
+              <Mapping SourceColumn="inunitprice" DataSetColumn="inunitprice" />
+              <Mapping SourceColumn="intotalcost" DataSetColumn="intotalcost" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="saleDataSet4" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="saleDataSet4" msprop:Generator_UserDSName="saleDataSet4" msprop:EnableTableAdapterManager="True">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="inventery" msprop:Generator_UserTableName="inventery" msprop:Generator_RowDeletedName="inventeryRowDeleted" msprop:Generator_TableClassName="inventeryDataTable" msprop:Generator_RowChangedName="inventeryRowChanged" msprop:Generator_RowClassName="inventeryRow" msprop:Generator_RowChangingName="inventeryRowChanging" msprop:Generator_RowEvArgName="inventeryRowChangeEvent" msprop:Generator_RowEvHandlerName="inventeryRowChangeEventHandler" msprop:Generator_TablePropName="inventery" msprop:Generator_TableVarName="tableinventery" msprop:Generator_RowDeletingName="inventeryRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="initemname" msprop:Generator_UserColumnName="initemname" msprop:Generator_ColumnPropNameInRow="initemname" msprop:Generator_ColumnVarNameInTable="columninitemname" msprop:Generator_ColumnPropNameInTable="initemnameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="inqty" msprop:Generator_UserColumnName="inqty" msprop:Generator_ColumnPropNameInRow="inqty" msprop:Generator_ColumnVarNameInTable="columninqty" msprop:Generator_ColumnPropNameInTable="inqtyColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="inunitprice" msprop:Generator_UserColumnName="inunitprice" msprop:Generator_ColumnPropNameInRow="inunitprice" msprop:Generator_ColumnVarNameInTable="columninunitprice" msprop:Generator_ColumnPropNameInTable="inunitpriceColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="intotalcost" msprop:Generator_UserColumnName="intotalcost" msprop:Generator_ColumnPropNameInRow="intotalcost" msprop:Generator_ColumnVarNameInTable="columnintotalcost" msprop:Generator_ColumnPropNameInTable="intotalcostColumn" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

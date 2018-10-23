@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet4" targetNamespace="http://tempuri.org/DataSet4.xsd" xmlns:mstns="http://tempuri.org/DataSet4.xsd" xmlns="http://tempuri.org/DataSet4.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet4" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet4" msprop:Generator_DataSetName="DataSet4">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="warranty" msprop:Generator_UserTableName="warranty" msprop:Generator_RowDeletedName="warrantyRowDeleted" msprop:Generator_TableClassName="warrantyDataTable" msprop:Generator_RowChangedName="warrantyRowChanged" msprop:Generator_RowClassName="warrantyRow" msprop:Generator_RowChangingName="warrantyRowChanging" msprop:Generator_RowEvArgName="warrantyRowChangeEvent" msprop:Generator_RowEvHandlerName="warrantyRowChangeEventHandler" msprop:Generator_TablePropName="warranty" msprop:Generator_TableVarName="tablewarranty" msprop:Generator_RowDeletingName="warrantyRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="wid" msprop:Generator_UserColumnName="wid" msprop:Generator_ColumnPropNameInRow="wid" msprop:Generator_ColumnVarNameInTable="columnwid" msprop:Generator_ColumnPropNameInTable="widColumn" type="xs:int" />
+              <xs:element name="cusid" msprop:Generator_UserColumnName="cusid" msprop:Generator_ColumnPropNameInRow="cusid" msprop:Generator_ColumnVarNameInTable="columncusid" msprop:Generator_ColumnPropNameInTable="cusidColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="witemname" msprop:Generator_UserColumnName="witemname" msprop:Generator_ColumnPropNameInRow="witemname" msprop:Generator_ColumnVarNameInTable="columnwitemname" msprop:Generator_ColumnPropNameInTable="witemnameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="wdate" msprop:Generator_UserColumnName="wdate" msprop:Generator_ColumnPropNameInRow="wdate" msprop:Generator_ColumnVarNameInTable="columnwdate" msprop:Generator_ColumnPropNameInTable="wdateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="wdetail" msprop:Generator_UserColumnName="wdetail" msprop:Generator_ColumnPropNameInRow="wdetail" msprop:Generator_ColumnVarNameInTable="columnwdetail" msprop:Generator_ColumnPropNameInTable="wdetailColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="inid" msprop:Generator_UserColumnName="inid" msprop:Generator_ColumnPropNameInRow="inid" msprop:Generator_ColumnVarNameInTable="columninid" msprop:Generator_ColumnPropNameInTable="inidColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:warranty" />
+      <xs:field xpath="mstns:wid" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

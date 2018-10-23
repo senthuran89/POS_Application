@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet1" msprop:Generator_DataSetName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="cash" msprop:Generator_UserTableName="cash" msprop:Generator_RowDeletedName="cashRowDeleted" msprop:Generator_TableClassName="cashDataTable" msprop:Generator_RowChangedName="cashRowChanged" msprop:Generator_RowClassName="cashRow" msprop:Generator_RowChangingName="cashRowChanging" msprop:Generator_RowEvArgName="cashRowChangeEvent" msprop:Generator_RowEvHandlerName="cashRowChangeEventHandler" msprop:Generator_TablePropName="cash" msprop:Generator_TableVarName="tablecash" msprop:Generator_RowDeletingName="cashRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cashid" msprop:Generator_UserColumnName="cashid" msprop:Generator_ColumnPropNameInRow="cashid" msprop:Generator_ColumnVarNameInTable="columncashid" msprop:Generator_ColumnPropNameInTable="cashidColumn" type="xs:int" />
+              <xs:element name="cusid" msprop:Generator_UserColumnName="cusid" msprop:Generator_ColumnPropNameInRow="cusid" msprop:Generator_ColumnVarNameInTable="columncusid" msprop:Generator_ColumnPropNameInTable="cusidColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="cashdate" msprop:Generator_UserColumnName="cashdate" msprop:Generator_ColumnPropNameInRow="cashdate" msprop:Generator_ColumnVarNameInTable="columncashdate" msprop:Generator_ColumnPropNameInTable="cashdateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="totalamount" msprop:Generator_UserColumnName="totalamount" msprop:Generator_ColumnPropNameInRow="totalamount" msprop:Generator_ColumnVarNameInTable="columntotalamount" msprop:Generator_ColumnPropNameInTable="totalamountColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="discount" msprop:Generator_UserColumnName="discount" msprop:Generator_ColumnPropNameInRow="discount" msprop:Generator_ColumnVarNameInTable="columndiscount" msprop:Generator_ColumnPropNameInTable="discountColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="payment" msprop:Generator_UserColumnName="payment" msprop:Generator_ColumnPropNameInRow="payment" msprop:Generator_ColumnVarNameInTable="columnpayment" msprop:Generator_ColumnPropNameInTable="paymentColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="balance" msprop:Generator_UserColumnName="balance" msprop:Generator_ColumnPropNameInRow="balance" msprop:Generator_ColumnVarNameInTable="columnbalance" msprop:Generator_ColumnPropNameInTable="balanceColumn" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:cash" />
+      <xs:field xpath="mstns:cashid" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

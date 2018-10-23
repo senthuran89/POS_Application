@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet2" targetNamespace="http://tempuri.org/DataSet2.xsd" xmlns:mstns="http://tempuri.org/DataSet2.xsd" xmlns="http://tempuri.org/DataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet2" msprop:Generator_DataSetName="DataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="credit" msprop:Generator_UserTableName="credit" msprop:Generator_RowDeletedName="creditRowDeleted" msprop:Generator_TableClassName="creditDataTable" msprop:Generator_RowChangedName="creditRowChanged" msprop:Generator_RowClassName="creditRow" msprop:Generator_RowChangingName="creditRowChanging" msprop:Generator_RowEvArgName="creditRowChangeEvent" msprop:Generator_RowEvHandlerName="creditRowChangeEventHandler" msprop:Generator_TablePropName="credit" msprop:Generator_TableVarName="tablecredit" msprop:Generator_RowDeletingName="creditRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="crid" msprop:Generator_UserColumnName="crid" msprop:Generator_ColumnPropNameInRow="crid" msprop:Generator_ColumnVarNameInTable="columncrid" msprop:Generator_ColumnPropNameInTable="cridColumn" type="xs:int" />
+              <xs:element name="cusid" msprop:Generator_UserColumnName="cusid" msprop:Generator_ColumnPropNameInRow="cusid" msprop:Generator_ColumnVarNameInTable="columncusid" msprop:Generator_ColumnPropNameInTable="cusidColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="cusdate" msprop:Generator_UserColumnName="cusdate" msprop:Generator_ColumnPropNameInRow="cusdate" msprop:Generator_ColumnVarNameInTable="columncusdate" msprop:Generator_ColumnPropNameInTable="cusdateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="crterms" msprop:Generator_UserColumnName="crterms" msprop:Generator_ColumnPropNameInRow="crterms" msprop:Generator_ColumnVarNameInTable="columncrterms" msprop:Generator_ColumnPropNameInTable="crtermsColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="crdiscount" msprop:Generator_UserColumnName="crdiscount" msprop:Generator_ColumnPropNameInRow="crdiscount" msprop:Generator_ColumnVarNameInTable="columncrdiscount" msprop:Generator_ColumnPropNameInTable="crdiscountColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="crtotalamount" msprop:Generator_UserColumnName="crtotalamount" msprop:Generator_ColumnPropNameInRow="crtotalamount" msprop:Generator_ColumnVarNameInTable="columncrtotalamount" msprop:Generator_ColumnPropNameInTable="crtotalamountColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="crinterst" msprop:Generator_UserColumnName="crinterst" msprop:Generator_ColumnPropNameInRow="crinterst" msprop:Generator_ColumnVarNameInTable="columncrinterst" msprop:Generator_ColumnPropNameInTable="crinterstColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="crinterms" msprop:Generator_UserColumnName="crinterms" msprop:Generator_ColumnPropNameInRow="crinterms" msprop:Generator_ColumnVarNameInTable="columncrinterms" msprop:Generator_ColumnPropNameInTable="crintermsColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="crpayment" msprop:Generator_UserColumnName="crpayment" msprop:Generator_ColumnPropNameInRow="crpayment" msprop:Generator_ColumnVarNameInTable="columncrpayment" msprop:Generator_ColumnPropNameInTable="crpaymentColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="crbalance" msprop:Generator_UserColumnName="crbalance" msprop:Generator_ColumnPropNameInRow="crbalance" msprop:Generator_ColumnVarNameInTable="columncrbalance" msprop:Generator_ColumnPropNameInTable="crbalanceColumn" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:credit" />
+      <xs:field xpath="mstns:crid" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

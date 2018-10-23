@@ -1,0 +1,152 @@
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\bin\Debug\shop.exe.config
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\bin\Debug\shop.exe
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\bin\Debug\shop.pdb
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\bin\Debug\shop.xml
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\obj\Debug\shop.cashsale.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\obj\Debug\shop.crditpay.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\obj\Debug\shop.crditsale.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\obj\Debug\shop.inventry.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\obj\Debug\shop.Resources.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\obj\Debug\shop.Normalsale.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\obj\Debug\shop.vbproj.GenerateResource.Cache
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\obj\Debug\shop.exe
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\obj\Debug\shop.xml
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\obj\Debug\shop.pdb
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\obj\Debug\shop.itemdetails.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\obj\Debug\shop.price_change.resources
+J:\New Folder5\shop\shop\bin\Debug\shop.exe.config
+J:\New Folder5\shop\shop\obj\Debug\shop.exe
+J:\New Folder5\shop\shop\obj\Debug\shop.xml
+J:\New Folder5\shop\shop\obj\Debug\shop.pdb
+J:\New Folder5\shop\shop\bin\Debug\shop.exe
+J:\New Folder5\shop\shop\bin\Debug\shop.pdb
+J:\New Folder5\shop\shop\bin\Debug\shop.xml
+J:\New Folder5\shop\shop\obj\Debug\ResolveAssemblyReference.cache
+J:\New Folder5\shop\shop\obj\Debug\shop.cashsale.resources
+J:\New Folder5\shop\shop\obj\Debug\shop.crditpay.resources
+J:\New Folder5\shop\shop\obj\Debug\shop.crditsale.resources
+J:\New Folder5\shop\shop\obj\Debug\shop.inventry.resources
+J:\New Folder5\shop\shop\obj\Debug\shop.itemdetails.resources
+J:\New Folder5\shop\shop\obj\Debug\shop.Resources.resources
+J:\New Folder5\shop\shop\obj\Debug\shop.Normalsale.resources
+J:\New Folder5\shop\shop\obj\Debug\shop.price_change.resources
+J:\New Folder5\shop\shop\obj\Debug\shop.vbproj.GenerateResource.Cache
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\obj\Debug\shop.warrenty.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\obj\Debug\shop.MDIParent1.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\obj\Debug\shop.nwarrenty.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\obj\Debug\shop.user.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\obj\Debug\shop.newuser.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\obj\Debug\shop.LoginForm1.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder5\shop\shop\obj\Debug\shop.cashreport.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\bin\Debug\shop.exe.config
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.exe
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.xml
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.pdb
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.cashreport.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.crditpay.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.crditsale.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.LoginForm1.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.MDIParent1.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.newuser.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.nwarrenty.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.user.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.warrenty.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.inventry.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.itemdetails.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.Resources.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.Normalsale.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.price_change.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.vbproj.GenerateResource.Cache
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\bin\Debug\shop.exe
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\bin\Debug\shop.pdb
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\bin\Debug\shop.xml
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.cashreport2.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.creditreport.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.crreport.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.itemreport.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.warrentyreport.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\bin\Debug\ta\shop.resources.dll
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.Normalsale.ta.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\ta\shop.resources.dll
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\bin\Debug\en\shop.resources.dll
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\shop.Normalsale.en.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder6\shop\shop\obj\Debug\en\shop.resources.dll
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\bin\Debug\shop.exe.config
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.exe
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.xml
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.pdb
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\bin\Debug\shop.exe
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\bin\Debug\shop.pdb
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\bin\Debug\shop.xml
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\bin\Debug\en\shop.resources.dll
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\bin\Debug\ta\shop.resources.dll
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.cashreport.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.cashreport2.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.crditpay.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.crditsale.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.creditreport.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.crreport.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.itemreport.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.LoginForm1.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.MDIParent1.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.newuser.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.nwarrenty.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.user.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.warrenty.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.inventry.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.itemdetails.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.Resources.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.Normalsale.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.price_change.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.warrentyreport.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.Normalsale.en.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.Normalsale.ta.resources
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\shop.vbproj.GenerateResource.Cache
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\en\shop.resources.dll
+D:\Documents and Settings\Sentha\Desktop\New Folder\shop\shop\obj\Debug\ta\shop.resources.dll
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\bin\Debug\shop.exe.config
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.exe
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.xml
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.pdb
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\bin\Debug\shop.exe
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\bin\Debug\shop.pdb
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\bin\Debug\shop.xml
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\bin\Debug\en\shop.resources.dll
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\bin\Debug\ta\shop.resources.dll
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.cashreport.resources
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.cashreport2.resources
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.crditpay.resources
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.crditsale.resources
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.creditreport.resources
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.crreport.resources
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.itemreport.resources
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.LoginForm1.resources
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.MDIParent1.resources
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.newuser.resources
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.nwarrenty.resources
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.user.resources
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.warrenty.resources
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.inventry.resources
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.itemdetails.resources
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.Resources.resources
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.Normalsale.resources
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.price_change.resources
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.warrentyreport.resources
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.Normalsale.en.resources
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.Normalsale.ta.resources
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.vbproj.GenerateResource.Cache
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\en\shop.resources.dll
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\ta\shop.resources.dll
+D:\Documents and Settings\Sentha\Desktop\Jaffna  Shop\shop\shop\obj\Debug\shop.crpayreport.resources
+D:\vb.net assignment\Jaffna  Shop\shop\shop\bin\Debug\shop.exe.config
+D:\vb.net assignment\Jaffna  Shop\shop\shop\obj\Debug\shop.exe
+D:\vb.net assignment\Jaffna  Shop\shop\shop\obj\Debug\shop.xml
+D:\vb.net assignment\Jaffna  Shop\shop\shop\obj\Debug\shop.pdb
+D:\C# and asp works\hnd\vb.net assignment\Jaffna  Shop\shop\shop\bin\Debug\shop.exe.config
+D:\C# and asp works\hnd\vb.net assignment\Jaffna  Shop\shop\shop\obj\Debug\shop.exe
+D:\C# and asp works\hnd\vb.net assignment\Jaffna  Shop\shop\shop\obj\Debug\shop.xml
+D:\C# and asp works\hnd\vb.net assignment\Jaffna  Shop\shop\shop\obj\Debug\shop.pdb
